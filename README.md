@@ -39,3 +39,5 @@ More trips are taken during the weekdays as compared to the weekends. Moreover, 
 ### **_Trip Duration_**
 
 Non-subscribers, on average, take longer trips, than subscribers. An easy explanation is that subscribers have a set routine and motivation for using the bike share service, like, commuting to work. In contrast, non-subscribers may not have a particular itenerary or maybe using the service to explore the city without a set time limit in mind.
+
+## CONTACT

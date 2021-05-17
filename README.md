@@ -1,5 +1,9 @@
 # **NYC Citi Bike Ridership Analysis**
 
+## **OUTPUT**
+
+![alt text](dashboard_screenshot.png)
+
 ## **TABLEAU WORKBOOK**
 
 Link: [NYC Citi Bike Ridership Analysis 2019-2020](https://public.tableau.com/views/NYCCitiBike2019-2020RidershipAnalysis/CitiBikeDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)

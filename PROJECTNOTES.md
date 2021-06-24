@@ -27,12 +27,12 @@
 
 ## Other Questions for other Viz
 
-6. Where are the stations located?
+6. Where are the stations located? - Map
 
-7. Which stations are most popular or most often used?
+7. Which stations are most popular or most often used? - Bar graph
 
-8. Which time of the day is peak usage observed?
+8. Which time of the day is peak usage observed? - Modified table
 
-9. Which day/month/year shows peak usage?
+9. Which day/month/year shows peak usage? - Line chart
 
 10. 

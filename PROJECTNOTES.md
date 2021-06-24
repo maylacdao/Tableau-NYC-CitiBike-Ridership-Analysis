@@ -15,3 +15,16 @@
 
 3. What is the average trip duration?
 
+4. Is there a difference in the number of users based on gender?
+    - male
+    - female
+
+5. What is the average age of users?
+
+#### Design Notes:
+- location: top
+- cards
+
+## Other Questions for other Viz
+
+6. 

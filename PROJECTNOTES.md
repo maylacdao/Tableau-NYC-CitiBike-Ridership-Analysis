@@ -27,4 +27,12 @@
 
 ## Other Questions for other Viz
 
-6. 
+6. Where are the stations located?
+
+7. Which stations are most popular or most often used?
+
+8. Which time of the day is peak usage observed?
+
+9. Which day/month/year shows peak usage?
+
+10. 
